@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MoritzKlei/MoritzKlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hey 👋 What's up?</h1>
 
-###
+### Hi there 👋
 
 <p align="left">My name is Moritz Kleinstraß and I'm a Medical informatics Master Student, from Germany</p>
 
