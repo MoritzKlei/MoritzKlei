@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <p align="left">
   ✨ Creating bugs since 2015<br>
   📚 I'm currently learning D3 and C#<br>
-  🧑‍🎓 Studing Medical Informatics in at Tübingen University
+  🧑‍🎓 Studing Medical Informatics in at Tübingen University<br>
+  📫 How to reach me: https://www.linkedin.com/in/moritz-kleinstrass/ <br>
+  😄 Pronouns: He/Him
 </p>
 
 ###
@@ -52,6 +54,3 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/MoritzKlei/MoritzKlei/output/snake.svg" alt="Snake animation" />
-
-###
