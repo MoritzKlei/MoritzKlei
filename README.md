@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   ✨ Creating bugs since 2015<br>
-  📚 I'm currently learning D3 and C#
+  📚 I'm currently learning D3 and C#<br>
   🧑‍🎓 Studing Medical Informatics in at Tübingen University
 </p>
 
