@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Moritz Kleinstraß</h1>
-<h3 align="center">currently working on</h3>
+# align="center">Hi 👋, I'm Moritz Kleinstraß
 
 - 🔭 I’m currently working on **my Masters Degree in Medicalinformatics**
 
