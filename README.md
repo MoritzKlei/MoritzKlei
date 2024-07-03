@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 
 <p align="left">
   ✨ Creating bugs since 2015<br>
-  📚 I'm currently learning D3 and C#<br>
   🧑‍🎓 Studing Medical Informatics in at Tübingen University<br>
+  📚 I'm currently writing my Masterthesis<br>
+  🏗️ As soon as time allows it i will work on some Projekts that i can display here<br>
   📫 How to reach me: https://www.linkedin.com/in/moritz-kleinstrass/ <br>
   😄 Pronouns: He/Him
 </p>
